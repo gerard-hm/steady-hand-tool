@@ -1,2 +1,71 @@
-# steady-hand-tool
-An open-source, manual SMD assembly stabilizer designed for precision and accessibility. Features 4 degrees of freedom and modular magnetic tools.
+Here is the complete, updated `README.md` for your project, incorporating the **MIT License** and all the details from your site.
+
+---
+
+# Steady Hand Tool
+
+**A stabilizing pick-and-place arm for precision SMD assembly.**
+
+Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer designed to help makers and professionals prototype PCBs with high precision. Originally created to overcome physical challenges—specifically hand tremors caused by Parkinson’s disease—this tool makes high-accuracy soldering accessible to everyone.
+
+## 🌟 Key Features
+
+* **Stabilized 4-DOF Movement:** Keeps your hand on a steady track while allowing full vertical and horizontal reach.
+* **Near-Zero Friction:** Equipped with **14 high-quality metal bearings** and carbon fiber rods for smooth, silent, and effortless operation.
+* **Modular Magnetic Coupler:** Features a quick-swap magnetic system for changing tool heads (tweezers, vacuum tips, etc.) in seconds.
+* **Purely Mechanical:** No power required, no cables, and no noise. It's always ready to work when you are.
+* **Heavy-Duty Base:** A weighted **680g (1.5 lb)** base ensures the arm remains stable even at full extension.
+* **Open Source:** Designed to be hacked and customized. Create your own tool heads to suit your specific workflow.
+
+## 🛠 Technical Specifications
+
+* **Reach:** Approximately 250 mm (9.8 in) vertical and horizontal travel.
+* **Construction:** 3D-printed components (optimized for PETG/Carbon Fiber) and 8mm carbon fiber rods.
+* **Bearings:** MR128ZZ precision shielded bearings.
+* **Compatibility:** Includes a pair of specialized reverse tweezers optimized for 0805-size components and smaller.
+
+## 📦 DIY Kits & Assembly
+
+The Steady Hand Tool is designed to be accessible. You can build it from scratch using the files in this repo or purchase a kit:
+
+1. **Basic Kit:** Includes the essential "closed-source" 3D-printed carriages. You print the rest and source your own hardware.
+2. **Complete Kit:** Everything included—3D parts, bearings, carbon fiber rods, magnets, and the weighted base.
+
+> [!TIP]
+> **Looking to build it?** Check out our [Assembly Guide](https://www.google.com/search?q=assembly-guide.md) for step-by-step instructions.
+
+### Bill of Materials (BOM)
+
+For those sourcing their own parts, the core hardware includes:
+
+* 8mm x 300mm Carbon Fiber rods
+* MR128ZZ Bearings
+* Neodymium Magnets (for the tool coupler)
+* M3 & M4 Stainless Steel hardware
+
+## 📂 Repository Structure
+
+* `/models`: Contains `.STL` and `.STEP` files for 3D printing.
+* `/docs`: Assembly guides and technical drawings.
+* `/images`: Photos and GIFs of the tool in action.
+
+## 🤝 Our Mission & Support
+
+My personal experience with Parkinson's disease inspired the creation of this tool. We believe that physical limitations shouldn't limit creativity.
+
+As part of our commitment to the community, **10% of the net profit** from all Steady Hand Tool sales goes directly to **Team Fox**, the grassroots fundraising program of **The Michael J. Fox Foundation for Parkinson’s Research**.
+
+## 🔗 Links
+
+* **Official Website:** [Halfmarble.com](https://halfmarble.com/blogs/news/steady-hand-tool)
+* **Support the Project:** [Crowd Supply Campaign](https://www.crowdsupply.com/halfmarble/steady-hand-tool)
+
+---
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details. You are free to use, modify, and distribute this design for any purpose, provided the original copyright is maintained.
+
+---
+
+**Would you like me to organize these files into a folder structure for you to download, or help you write the `BOM.csv` (Bill of Materials) file?**
