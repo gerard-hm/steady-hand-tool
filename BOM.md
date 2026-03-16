@@ -1,47 +1,74 @@
-# 🛒 Bill of Materials (BOM)
+# Steady Hand Tool
 
-The Steady Hand Tool is designed to be accessible. You can source these parts yourself or purchase a **Steady Hand Tool Complete** kit at [Halfmarble.com](https://halfmarble.com/blogs/news/steady-hand-tool).
+**A stabilizing pick-and-place arm for precision SMD assembly.**
 
-## 🏗️ Structural Hardware
+[![Project Status](https://img.shields.io/badge/Status-Open%20Source-green.svg)](https://halfmarble.com/blogs/news/steady-hand-tool)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-| Item | Price (Est.) | Purpose |
-| --- | --- | --- |
-| **[8mm/300mm Carbon Fiber Rods](https://www.google.com/search?q=https://www.amazon.com/s%3Fk%3D8mm%2B300mm%2Bcarbon%2Bfiber%2Brods)** | $22 | Horizontal and vertical guide rails |
-| **[MR128ZZ Bearings](https://www.google.com/search?q=https://www.amazon.com/s%3Fk%3DMR128ZZ%2Bbearings)** | $22 | Low-friction movement (14 required) |
-| **[Magnets](https://www.google.com/search?q=https://www.amazon.com/s%3Fk%3D6mm%2Bx%2B3mm%2Bneodymium%2Bmagnets)** | $10 | Magnetic tool coupler system |
-| **[Base Weights](https://www.google.com/search?q=https://www.amazon.com/s%3Fk%3Dsteel%2Bbearing%2Bballs%2Bweight)** | $20 | Ballast for the weighted base |
+<p align="center">
+  <img src="docs/images/hero-shot.jpg" alt="Steady Hand Tool v1" width="600">
+  <br>
+  <em>Steady Hand Tool — when you need help holding down really tiny parts.</em>
+</p>
 
-## 🔩 Fasteners & Assembly
-
-| Item | Price (Est.) | Purpose |
-| --- | --- | --- |
-| **[M4 Bolts and Nuts](https://www.google.com/search?q=https://www.amazon.com/s%3Fk%3DM4%2Bbolts%2Band%2Bnuts%2Bkit)** | $9 | Securing the weighted base plate |
-| **[M3 Bolts and Nuts](https://www.google.com/search?q=https://www.amazon.com/s%3Fk%3DM3%2Bbolts%2Band%2Bnuts%2Bkit)** | $9 | Carriage assembly and rod locks |
-| **[Ball-Hex (Allen) Screwdrivers](https://www.google.com/search?q=https://www.amazon.com/s%3Fk%3Dball%2Bhex%2Bscrewdriver%2Bset%2Bmetric)** | $17 | Recommended for easier assembly |
-
-## 🛠️ Specialized Tools
-
-| Item | Price (Est.) | Purpose |
-| --- | --- | --- |
-| **[Reverse Tweezers](https://www.google.com/search?q=https://www.amazon.com/s%3Fk%3Dreverse%2Blocking%2Btweezers%2Bneedle%2Bpoint)** | $8 | Needle-pointed reversible locking tweezers |
+Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer designed to help makers and professionals prototype PCBs with high precision. Originally created to overcome physical challenges—specifically hand tremors caused by Parkinson’s disease—this tool makes high-accuracy soldering accessible to everyone.
 
 ---
 
-### 🖨️ 3D Printed Parts
+## 🌟 Key Features
 
-The structural carriages are optimized for **PETG** or **Carbon Fiber PETG/Nylon**.
+* **Stabilized 4-DOF Movement:** Keeps your hand on a steady track while allowing full vertical and horizontal reach.
+* **Near-Zero Friction:** Equipped with **14 high-quality metal bearings** and carbon fiber rods for smooth, silent, and effortless operation.
+* **Modular Magnetic Coupler:** Features a quick-swap magnetic system for changing tool heads (tweezers, vacuum tips, etc.) in seconds.
+* **Purely Mechanical:** No power required, no cables, and no noise. It's always ready to work when you are.
 
-* **1x** Vertical Carriage (Closed Source)
-* **1x** Horizontal Carriage (Closed Source)
-* **1x** Tool Arm (Magnetic Coupler interface)
-* **1x** Weighted Base Shell & Base Plate
-* **4x** Rod End Caps/Locks
+<p align="center">
+  <img src="docs/images/tool-in-action.gif" alt="Steady Hand Tool in Action">
+</p>
 
 ---
 
-### 💡 How to update the links with your Affiliate IDs:
+## 🛒 Bill of Materials (BOM)
 
-1. Open the `BOM.md` file in the GitHub editor.
-2. Find the text in brackets `[Item Name]`.
-3. Replace the URL in the parentheses `(https://www.amazon.com/...)` with your specific affiliate link from your [Halfmarble blog post](https://halfmarble.com/blogs/news/steady-hand-tool).
-4. Commit the changes.
+The Steady Hand Tool is designed for easy sourcing. You can find the links and visual references for each component below.
+
+### 🏗️ Structural Hardware
+
+| Image | Item | Specification | Purpose |
+| :---: | :--- | :--- | :--- |
+| <img src="docs/images/rods.jpg" width="100"> | [**Carbon Fiber Rods**](https://www.amazon.com/s?k=8mm+300mm+carbon+fiber+rods) | 8mm Diameter x 300mm | Main vertical and horizontal rails |
+| <img src="docs/images/bearings.jpg" width="100"> | [**MR128ZZ Bearings**](https://www.amazon.com/s?k=MR128ZZ+bearings) | 8x12x3.5mm (14 required) | Frictionless carriage movement |
+| <img src="docs/images/magnets.jpg" width="100"> | [**Magnets**](https://www.amazon.com/s?k=6mm+x+3mm+neodymium+magnets) | 6mm x 3mm Neodymium | Magnetic tool coupler interface |
+| <img src="docs/images/weights.jpg" width="100"> | [**Base Weights**](https://www.amazon.com/s?k=steel+bearing+balls+weight) | Metal BBs or Bearing Balls | Ballast to prevent tipping |
+
+### 🔩 Fasteners & Tools
+
+| Image | Item | Specification | Purpose |
+| :---: | :--- | :--- | :--- |
+| <img src="docs/images/tweezers.jpg" width="100"> | [**Reverse Tweezers**](https://www.amazon.com/s?k=reverse+locking+tweezers+needle+point) | Needle-point, locking | Holding SMD parts during placement |
+| <img src="docs/images/hardware.jpg" width="100"> | [**M3 & M4 Hardware**](https://www.amazon.com/s?k=M3+M4+bolt+nut+kit) | Stainless Steel Bolts/Nuts | Structural assembly of the base and arm |
+| <img src="docs/images/tools.jpg" width="100"> | [**Ball-Hex Drivers**](https://www.amazon.com/s?k=ball+hex+screwdriver+set+metric) | Metric Allen Key Set | Recommended for assembly adjustments |
+
+---
+
+## 📂 Repository Structure
+
+* `/hardware/models`: Contains `.STL` and `.STEP` files for 3D printing.
+* `/docs`: Assembly guides, BOM images, and technical drawings.
+* `/media`: High-resolution marketing photos and demonstration videos.
+
+---
+
+## 🤝 Our Mission & Support
+
+Physical limitations shouldn't limit creativity. This project was born out of a personal journey with Parkinson's disease to ensure that precision engineering remains open to everyone.
+
+<p align="left">
+  <img src="docs/images/team-fox-logo.png" alt="Team Fox Logo" width="150">
+</p>
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
