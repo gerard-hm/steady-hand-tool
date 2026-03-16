@@ -20,24 +20,8 @@ Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer desi
 * **Bearings:** MR128ZZ precision shielded bearings.
 * **Compatibility:** Includes a pair of specialized reverse tweezers optimized for 0805-size components and smaller.
 
-## 📦 DIY Kits & Assembly
-
-The Steady Hand Tool is designed to be accessible. You can build it from scratch using the files in this repo or purchase a kit:
-
-1. **Basic Kit:** Includes the essential "closed-source" 3D-printed carriages. You print the rest and source your own hardware.
-2. **Complete Kit:** Everything included—3D parts, bearings, carbon fiber rods, magnets, and the weighted base.
-
 > [!TIP]
 > **Looking to build it?** Check out our [Assembly Guide](https://www.google.com/search?q=assembly-guide.md) for step-by-step instructions.
-
-### Bill of Materials (BOM)
-
-For those sourcing their own parts, the core hardware includes:
-
-* 8mm x 300mm Carbon Fiber rods
-* MR128ZZ Bearings
-* Neodymium Magnets (for the tool coupler)
-* M3 & M4 Stainless Steel hardware
 
 ## 📂 Repository Structure
 
