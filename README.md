@@ -1,5 +1,22 @@
 # Steady Hand Tool
 
+[![Project Status](https://img.shields.io/badge/Status-Open%20Source-green.svg)](https://halfmarble.com/blogs/news/steady-hand-tool)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<p align="center">
+  <img src="media/hero-shot.jpg" alt="Steady Hand Tool v1" width="600">
+  <br>
+</p>
+<p align="center">
+  <img src="media/hero-shot2.jpg" alt="Steady Hand Tool v1" width="600">
+  <br>
+</p>
+<p align="center">
+  <img src="media/hero-shot3.jpg" alt="Steady Hand Tool v1" width="600">
+  <br>
+  <em>Steady Hand Tool — when you need help holding down really tiny parts.</em>
+</p>
+
 **A stabilizing pick-and-place arm for precision SMD assembly.**
 
 Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer designed to help makers and professionals prototype PCBs with high precision. Originally created to overcome physical challenges—specifically hand tremors caused by Parkinson’s disease—this tool makes high-accuracy soldering accessible to everyone.
@@ -20,24 +37,8 @@ Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer desi
 * **Bearings:** MR128ZZ precision shielded bearings.
 * **Compatibility:** Includes a pair of specialized reverse tweezers optimized for 0805-size components and smaller.
 
-## 📦 DIY Kits & Assembly
-
-The Steady Hand Tool is designed to be accessible. You can build it from scratch using the files in this repo or purchase a kit:
-
-1. **Basic Kit:** Includes the essential "closed-source" 3D-printed carriages. You print the rest and source your own hardware.
-2. **Complete Kit:** Everything included—3D parts, bearings, carbon fiber rods, magnets, and the weighted base.
-
 > [!TIP]
 > **Looking to build it?** Check out our [Assembly Guide](https://www.google.com/search?q=assembly-guide.md) for step-by-step instructions.
-
-### Bill of Materials (BOM)
-
-For those sourcing their own parts, the core hardware includes:
-
-* 8mm x 300mm Carbon Fiber rods
-* MR128ZZ Bearings
-* Neodymium Magnets (for the tool coupler)
-* M3 & M4 Stainless Steel hardware
 
 ## 📂 Repository Structure
 
