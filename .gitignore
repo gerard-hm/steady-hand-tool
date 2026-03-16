@@ -1,0 +1,30 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# CAD / 3D Printing temp files
+*.bak
+*.tmp
+*.log
+*.~*
+*.err
+*.pnl
+*.log
+
+# Fusion 360 / Solidworks / Tinkercad local cache
+*.f3d.lock
+*.sldprt.bak
+*.sldasm.bak
+
+# Documentation temp files
+~$*.docx
+~$*.xlsx
+
+# Text editor swap files
+*.swp
+*.swo
