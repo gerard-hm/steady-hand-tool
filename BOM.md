@@ -64,8 +64,11 @@ The Steady Hand Tool is designed for easy sourcing. You can find the links and v
 Physical limitations shouldn't limit creativity. This project was born out of a personal journey with Parkinson's disease to ensure that precision engineering remains open to everyone.
 
 <p align="left">
-  <img src="media/team-fox-logo.png" alt="Team Fox Logo" width="600">
+  <a href="https://www.michaeljfox.org">
+    <img src="media/team-fox-logo.png" alt="Team Fox Logo" width="600">
+  </a>
 </p>
+
 
 ---
 
