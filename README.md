@@ -6,7 +6,6 @@
 <p align="center">
   <img src="media/hero-shot.jpg" alt="Steady Hand Tool v1" width="600">
   <br>
-  <em>Steady Hand Tool — when you need help holding down really tiny parts.</em>
 </p>
 <p align="center">
   <img src="media/hero-shot2.jpg" alt="Steady Hand Tool v1" width="600">
@@ -15,6 +14,7 @@
 <p align="center">
   <img src="media/hero-shot3.jpg" alt="Steady Hand Tool v1" width="600">
   <br>
+  <em>Steady Hand Tool — when you need help holding down really tiny parts.</em>
 </p>
 
 **A stabilizing pick-and-place arm for precision SMD assembly.**
