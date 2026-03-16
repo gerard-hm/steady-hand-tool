@@ -1,7 +1,3 @@
-Here is the complete, updated `README.md` for your project, incorporating the **MIT License** and all the details from your site.
-
----
-
 # Steady Hand Tool
 
 **A stabilizing pick-and-place arm for precision SMD assembly.**
@@ -45,9 +41,25 @@ For those sourcing their own parts, the core hardware includes:
 
 ## 📂 Repository Structure
 
-* `/models`: Contains `.STL` and `.STEP` files for 3D printing.
-* `/docs`: Assembly guides and technical drawings.
-* `/images`: Photos and GIFs of the tool in action.
+steady-hand-tool/
+├── .github/                # Issue templates and GitHub-specific config
+├── hardware/               # All physical design files
+│   ├── models/             # 3D models for printing
+│   │   ├── stl/            # Ready-to-print files (standard)
+│   │   ├── step/           # High-fidelity files for CAD software
+│   │   └── community/      # User-submitted tool heads
+│   ├── electronics/        # (Optional) If you ever add sensors/LEDs
+│   └── reference/          # Technical drawings or dimension sheets
+├── docs/                   # Documentation and guides
+│   ├── assembly-guide.md   # Step-by-step build instructions
+│   ├── images/             # Photos and GIFs used in the guides
+│   └── calibration.md      # How to tune the arm for smooth movement
+├── media/                  # High-res logos and marketing photos
+├── .gitignore              # Tells Git which files to ignore (like temp CAD files)
+├── BOM.md                  # Bill of Materials (the "Shopping List")
+├── CONTRIBUTING.md         # How others can help
+├── LICENSE                 # MIT License text
+└── README.md               # The front page of your project
 
 ## 🤝 Our Mission & Support
 
