@@ -53,13 +53,6 @@ For those sourcing their own parts, the core hardware includes:
 
 My personal experience with Parkinson's disease inspired the creation of this tool. We believe that physical limitations shouldn't limit creativity.
 
-As part of our commitment to the community, **10% of the net profit** from all Steady Hand Tool sales goes directly to **Team Fox**, the grassroots fundraising program of **The Michael J. Fox Foundation for Parkinson’s Research**.
-
-## 🔗 Links
-
-* **Official Website:** [Halfmarble.com](https://halfmarble.com/blogs/news/steady-hand-tool)
-* **Support the Project:** [Crowd Supply Campaign](https://www.crowdsupply.com/halfmarble/steady-hand-tool)
-
 ---
 
 ## License
