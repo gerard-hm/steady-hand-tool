@@ -41,6 +41,7 @@ For those sourcing their own parts, the core hardware includes:
 
 ## 📂 Repository Structure
 
+```
 steady-hand-tool/
 ├── .github/                # Issue templates and GitHub-specific config
 ├── hardware/               # All physical design files
@@ -60,6 +61,7 @@ steady-hand-tool/
 ├── CONTRIBUTING.md         # How others can help
 ├── LICENSE                 # MIT License text
 └── README.md               # The front page of your project
+```
 
 ## 🤝 Our Mission & Support
 
