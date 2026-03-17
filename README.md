@@ -17,8 +17,6 @@
   <em>Steady Hand Tool — when you need help holding down really tiny parts.</em>
 </p>
 
-**A stabilizing pick-and-place arm for precision SMD assembly.**
-
 ## See it in Action
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Imng8o2QRBg">
