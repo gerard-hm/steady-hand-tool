@@ -64,17 +64,11 @@ steady-hand-tool/
 └── README.md               # The front page of your project
 ```
 
+---
+
 ## 🤝 Our Mission & Support
 
 My personal experience with Parkinson's disease inspired the creation of this tool. We believe that physical limitations shouldn't limit creativity.
-
----
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details. You are free to use, modify, and distribute this design for any purpose, provided the original copyright is maintained.
-
----
 
 <p align="left">
   <a href="https://give.michaeljfox.org/give/421686/#!/donation/checkout">
@@ -85,5 +79,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](https://w
 </p>
 
 ---
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details. You are free to use, modify, and distribute this design for any purpose, provided the original copyright is maintained.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
