@@ -19,6 +19,17 @@
 
 **A stabilizing pick-and-place arm for precision SMD assembly.**
 
+## See it in Action
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Imng8o2QRBg">
+    <img src="https://img.youtube.com/vi/Imng8o2QRBg/0.jpg" alt="Steady Hand Tool Video" width="600">
+  </a>
+  <br>
+  <em>Demonstrating the stability and precision of the Steady Hand Tool.</em>
+</p>
+
+---
+
 Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer designed to help makers and professionals prototype PCBs with high precision. Originally created to overcome physical challenges—specifically hand tremors caused by Parkinson’s disease—this tool makes high-accuracy soldering accessible to everyone.
 
 ## 🌟 Key Features
