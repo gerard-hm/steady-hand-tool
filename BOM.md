@@ -11,8 +11,6 @@
   <em>Steady Hand Tool — when you need help holding down really tiny parts.</em>
 </p>
 
-Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer designed to help makers and professionals prototype PCBs with high precision. Originally created to overcome physical challenges—specifically hand tremors caused by Parkinson’s disease—this tool makes high-accuracy soldering accessible to everyone.
-
 ---
 
 ## 🛒 Bill of Materials (BOM)
@@ -28,12 +26,16 @@ The Steady Hand Tool is designed for easy sourcing. You can find the links and v
 | <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://www.amazon.com/s?k=6mm+x+3mm+neodymium+magnets) | 6mm x 3mm Neodymium | Magnetic tool coupler interface |
 | <img src="media/weights.jpg" width="100"> | [**Base Weights**](https://www.amazon.com/s?k=steel+bearing+balls+weight) | Metal BBs or Bearing Balls | Ballast to prevent tipping |
 
-### 🔩 Fasteners & Tools
+### 🔩 Fasteners
+
+| Image | Item | Specification | Purpose |
+| :---: | :--- | :--- | :--- |
+| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://amzn.to/42phRHt) | Stainless Steel M3 Bolts/Nuts | Structural assembly of the base and arm |
+| <img src="media/hardwareM4.jpg" width="100"> | [**M4 Hardware**](https://amzn.to/3WslSXP) | Stainless Steel M4 Bolts/Nuts | Structural assembly of the base and arm |
+
+### 🔧 Tools
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
 | <img src="media/tweezers.jpg" width="100"> | [**Reverse Tweezers**](https://www.amazon.com/s?k=reverse+locking+tweezers+needle+point) | Needle-point, locking | Holding SMD parts during placement |
-| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://amzn.to/42phRHt) | Stainless Steel M3 Bolts/Nuts | Structural assembly of the base and arm |
-| <img src="media/hardwareM4.jpg" width="100"> | [**M4 Hardware**](https://amzn.to/3WslSXP) | Stainless Steel M4 Bolts/Nuts | Structural assembly of the base and arm |
-| <img src="media/tools.jpg" width="100"> | [**Ball-Hex Drivers**](https://www.amazon.com/s?k=ball+hex+screwdriver+set+metric) | Metric Allen Key Set | Recommended for assembly adjustments |
-
+| <img src="media/tools.jpg" width="100"> | [**Ball-Hex Drivers**](https://www.amazon.com/s?k=ball+hex+screwdriver+set+metric) | Metric Allen Key Set | Recommended for assembly |
