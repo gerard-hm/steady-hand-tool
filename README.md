@@ -76,4 +76,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](https://w
 
 ---
 
+<p align="left">
+  <a href="https://www.michaeljfox.org">
+    <img src="media/team-fox-logo.png" alt="Team Fox Logo" width="400">
+  </a>
+  <br>
+  <em>If this tool has been helpful to you, please consider supporting the <b>Michael J. Fox Foundation</b> in their mission to find a cure for Parkinson’s.</em>
+</p>
+
+---
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
