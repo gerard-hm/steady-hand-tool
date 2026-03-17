@@ -15,16 +15,16 @@
 
 ## 🛒 Bill of Materials (BOM)
 
-The Steady Hand Tool is designed for easy sourcing. You can find the links and visual references for each component below.
+The Steady Hand Tool is designed for easy sourcing. You can find the links and visual references for each component below (please notice that these are affiliate links).
 
 ### 🏗️ Structural Hardware
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
-| <img src="media/rods.jpg" width="100"> | [**Carbon Fiber Rods**](https://www.amazon.com/s?k=8mm+300mm+carbon+fiber+rods) | 8mm Diameter x 300mm | Main vertical and horizontal rails |
-| <img src="media/bearings.jpg" width="100"> | [**MR128ZZ Bearings**](https://www.amazon.com/s?k=MR128ZZ+bearings) | 8x12x3.5mm (14 required) | Frictionless carriage movement |
-| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://www.amazon.com/s?k=6mm+x+3mm+neodymium+magnets) | 6mm x 3mm Neodymium | Magnetic tool coupler interface |
-| <img src="media/weights.jpg" width="100"> | [**Base Weights**](https://www.amazon.com/s?k=steel+bearing+balls+weight) | Metal BBs or Bearing Balls | Ballast to prevent tipping |
+| <img src="media/rods.jpg" width="100"> | [**Carbon Fiber Rods**](https://amzn.to/4jpyyZC) | 8mm Diameter x 300mm | Main vertical and horizontal rails |
+| <img src="media/bearings.jpg" width="100"> | [**MR128ZZ Bearings**](https://amzn.to/42kMWMD) | 8x12x3.5mm (14 required) | Frictionless carriage movement |
+| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://amzn.to/4hq1puZ) | 6mm x 3mm Neodymium | Magnetic tool coupler interface |
+| <img src="media/weights.jpg" width="100"> | [**Base Weights**](https://amzn.to/4armCCl) | Metal BBs or Bearing Balls | Ballast to prevent tipping |
 
 ### 🔩 Fasteners
 
@@ -37,5 +37,5 @@ The Steady Hand Tool is designed for easy sourcing. You can find the links and v
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
-| <img src="media/tweezers.jpg" width="100"> | [**Reverse Tweezers**](https://www.amazon.com/s?k=reverse+locking+tweezers+needle+point) | Needle-point, locking | Holding SMD parts during placement |
-| <img src="media/tools.jpg" width="100"> | [**Ball-Hex Drivers**](https://www.amazon.com/s?k=ball+hex+screwdriver+set+metric) | Metric Allen Key Set | Recommended for assembly |
+| <img src="media/tweezers.jpg" width="100"> | [**Reverse Tweezers**](https://amzn.to/4g4LjWo) | Needle-point, locking | Holding SMD parts during placement |
+| <img src="media/tools.jpg" width="100"> | [**Ball-Hex Drivers**](https://amzn.to/4jlawie) | Metric Allen Key Set | Recommended for assembly |
