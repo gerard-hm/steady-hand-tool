@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <img src="media/hero-shot3.jpg" alt="Steady Hand Tool v1" width="600">
-  <br>
+  <br><br><br>
   <em>Steady Hand Tool — when you need help holding down really tiny parts.</em>
 </p>
 
