@@ -44,7 +44,7 @@ Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer desi
 * **Reach:** Approximately 250 mm (9.8 in) vertical and horizontal travel.
 * **Construction:** 3D-printed components (optimized for PETG/Carbon Fiber) and 8mm carbon fiber rods.
 * **Bearings:** MR128ZZ precision shielded bearings.
-* **Compatibility:** Includes a pair of specialized reverse tweezers optimized for 0805-size components and smaller.
+* **Compatibility:** Designed to support a pair of specialized reverse tweezers optimized for 0805-size components and smaller.
 
 > [!TIP]
 > **Looking to build it?** Check out our [Assembly Guide](https://www.google.com/search?q=assembly-guide.md) for step-by-step instructions.
