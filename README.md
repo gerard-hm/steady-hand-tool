@@ -77,7 +77,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](https://w
 ---
 
 <p align="left">
-  <a href="https://www.michaeljfox.org">
+  <a href="https://give.michaeljfox.org/give/421686/#!/donation/checkout">
     <img src="media/team-fox-logo.png" alt="Team Fox Logo" width="400">
   </a>
   <br>
