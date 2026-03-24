@@ -2,7 +2,7 @@
 
 # Steady Hand Tool
 
-> “When you're racing against your own biology, the **story** is just the exhaust; the **science is the engine** and our time is the fuel.”
+> “When you're racing against your own biology, the **story** is just the exhaust; the **science is the engine** and time is the fuel.”
 
 <p align="center">
   <img src="media/hero-shot.jpg" alt="Steady Hand Tool v1" width="600">
