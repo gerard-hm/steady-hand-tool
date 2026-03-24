@@ -1,6 +1,8 @@
+[![Project Status](https://img.shields.io/badge/Status-Open%20Source-green.svg)](https://halfmarble.com/blogs/news/steady-hand-tool)
+
 # Steady Hand Tool
 
-[![Project Status](https://img.shields.io/badge/Status-Open%20Source-green.svg)](https://halfmarble.com/blogs/news/steady-hand-tool)
+> “When you're racing against your own biology, the **story** is just the exhaust; the **science is the engine** and my time is the fuel.”
 
 <p align="center">
   <img src="media/hero-shot.jpg" alt="Steady Hand Tool v1" width="600">
@@ -13,7 +15,7 @@
 <p align="center">
   <img src="media/hero-shot3.jpg" alt="Steady Hand Tool v1" width="600">
   <br><br><br>
-  <em>Steady Hand Tool: Hold your ground when biology won’t.</em>
+  <em>Steady Hand Tool: Mechanical stability for a wandering hand.</em>
 </p>
 
 ## See it in Action
@@ -75,10 +77,14 @@ steady-hand-tool/
 ---
 
 ## ⚙️ Our Mission
-The Steady Hand Tool is an engineering response to a personal slice of PD hell. It exists because "making" is a vital part of staying human. We believe that no one should be forced to retire their soldering iron just because their biology is putting up a fight.
 
-## ⚓ Our Support
-This is a race against time and biology. Support this project by helping us optimize the hardware for the next generation of makers facing similar constraints. Feedback, code, and mechanical iterations are the fuel that keeps this engine running.
+"It's the only tool that I have, to help me and others manage our own **slice of PD hell.**"
+
+The Steady Hand Tool is an engineering response to a personal biological war. It exists because "making" is a vital part of staying human. Inspired by the lived reality of Parkinson’s Disease, this tool is engineered to ensure that biological constraints never dictate the boundaries of human creativity.
+
+## 🔧 Our Support
+
+This is a race against time and biology. We invite you to pick up a wrench and help us optimize the hardware for the next generation of makers facing similar constraints. Feedback, CAD iterations, and mechanical refinements are the high-octane fuel that keeps this engine running.
 
 <p align="left">
   <a href="https://give.michaeljfox.org/give/421686/#!/donation/checkout">
