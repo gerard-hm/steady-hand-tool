@@ -13,7 +13,7 @@
 <p align="center">
   <img src="media/hero-shot3.jpg" alt="Steady Hand Tool v1" width="600">
   <br><br><br>
-  <em>Steady Hand Tool — when you need help holding down really tiny parts.</em>
+  <em>Steady Hand Tool: Hold your ground when biology won’t.</em>
 </p>
 
 ## See it in Action
