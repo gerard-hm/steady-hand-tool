@@ -92,4 +92,4 @@ This is a race against time and biology. Support this project by helping us opti
 
 ## License
 
-This project is licensed under the **CERN-OHL-S-2.0 License** - see the [LICENSE]([https://choosealicense.com/licenses/cern-ohl-s-2.0/](https://choosealicense.com/licenses/cern-ohl-s-2.0/)) file for details.
+This project is licensed under the [**CERN-OHL-S-2.0 License**](https://choosealicense.com/licenses/cern-ohl-s-2.0/) - see the [LICENSE](LICENSE) file for details.
