@@ -1,7 +1,6 @@
 # Steady Hand Tool
 
 [![Project Status](https://img.shields.io/badge/Status-Open%20Source-green.svg)](https://halfmarble.com/blogs/news/steady-hand-tool)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <img src="media/hero-shot.jpg" alt="Steady Hand Tool v1" width="600">
@@ -69,15 +68,17 @@ steady-hand-tool/
 ├── .gitignore              # Tells Git which files to ignore (like temp CAD files)
 ├── BOM.md                  # Bill of Materials (the "Shopping List")
 ├── CONTRIBUTING.md         # How others can help
-├── LICENSE                 # MIT License text
+├── LICENSE                 # CERN-OHL-S-2.0 License text
 └── README.md               # The front page of your project
 ```
 
 ---
 
-## 🤝 Our Mission & Support
+## ⚙️ Our Mission
+The Steady Hand Tool is an engineering response to a personal slice of PD hell. It exists because "making" is a vital part of staying human. We believe that no one should be forced to retire their soldering iron just because their biology is putting up a fight.
 
-My personal experience with Parkinson's disease inspired the creation of this tool. We believe that physical limitations shouldn't limit creativity.
+## ⚓ Our Support
+This is a race against time and biology. Support this project by helping us optimize the hardware for the next generation of makers facing similar constraints. Feedback, code, and mechanical iterations are the fuel that keeps this engine running.
 
 <p align="left">
   <a href="https://give.michaeljfox.org/give/421686/#!/donation/checkout">
@@ -91,6 +92,4 @@ My personal experience with Parkinson's disease inspired the creation of this to
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details. You are free to use, modify, and distribute this design for any purpose, provided the original copyright is maintained.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under the **CERN-OHL-S-2.0 License** - see the [LICENSE]([https://choosealicense.com/licenses/cern-ohl-s-2.0/](https://choosealicense.com/licenses/cern-ohl-s-2.0/)) file for details.
