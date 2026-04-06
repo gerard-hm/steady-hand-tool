@@ -58,6 +58,7 @@ steady-hand-tool/
 ├── hardware/               # All physical design files
 │   ├── models/             # 3D models for printing
 │   │   ├── stl/            # Ready-to-print files (standard)
+│   │   │   ├── 3rdParty/   # Adapters for 3rd party tools
 │   │   ├── step/           # High-fidelity files for CAD software
 │   │   └── community/      # User-submitted tool heads
 │   ├── electronics/        # (Optional) If you ever add sensors/LEDs
