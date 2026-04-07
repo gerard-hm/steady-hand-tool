@@ -40,6 +40,21 @@ Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer desi
 * **Heavy-Duty Base:** A weighted **680g (1.5 lb)** base ensures the arm remains stable even at full extension.
 * **Open Source:** Designed to be hacked and customized. Create your own tool heads to suit your specific workflow.
 
+## 🚀 Get Yours
+
+<p align="center">
+  <a href="https://www.crowdsupply.com/halfmarble/steady-hand-tool">
+    <img src="https://img.shields.io/badge/Pre--Order_on-Crowd_Supply-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyAxNGgxOEwxMiAyem0wIDRsNS41IDguNWgtMTFMMTIgNnoiLz48L3N2Zz4=" alt="Pre-Order on Crowd Supply">
+  </a>
+</p>
+
+<p align="center">
+  <b>The Steady Hand Tool is coming to <a href="https://www.crowdsupply.com/halfmarble/steady-hand-tool">Crowd Supply</a>.</b><br>
+  Sign up to be notified when the campaign launches.
+</p>
+
+---
+
 ## 🛠 Technical Specifications
 
 * **Reach:** Approximately 250 mm (9.8 in) vertical and horizontal travel.
